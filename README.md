@@ -14,4 +14,4 @@ The vehicles at each 1-minute video are all carefully annotated, where a vehicle
 
 The traffic monitoring ROI of both front and rear views are given in "ROI.mat". 
 
-The traffic landmarks of these monitoring ROIs are provided in the videos named as "landmarks_front.avi" and "landmarks_rear.avi".  
+The traffic landmarks of these monitoring ROIs are provided in "landmarks_front.avi" and "landmarks_rear.avi".  
