@@ -19,3 +19,8 @@ The traffic landmarks of these monitoring ROIs are provided in "landmarks_front.
 ### Code
 
 The code will be released here. 
+
+### Citation
+If you find our work useful in your research, please consider citing:
+
+Zhang, X., Story, B., & Rajan, D. (2020, May). Night Time Vehicle Detection and Tracking by Fusing Sensor Cues from Autonomous Vehicles. In 2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring) (pp. 1-7). IEEE.
