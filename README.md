@@ -2,6 +2,7 @@
 
 This repo is the official implementation for [Night Time Vehicle Detection and Tracking by Fusing Vehicle Parts from Multiple Cameras]
 
-[Video Demonstration]
+The video demo is here [Video Demo]
+
 
 The dataset, video demo and code will be released here. 
