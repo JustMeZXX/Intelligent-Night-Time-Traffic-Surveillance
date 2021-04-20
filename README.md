@@ -23,13 +23,14 @@ The code will be released here.
 ### Bibtex
 If you find our work useful for your research, please consider citing:
 
-    @inproceedings{zhang2020night,
-      title={Night Time Vehicle Detection and Tracking by Fusing Sensor Cues from Autonomous Vehicles},
+    @INPROCEEDINGS{9128989,
       author={Zhang, Xinxiang and Story, Brett and Rajan, Dinesh},
-      booktitle={2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring)},
-      pages={1--7},
+      booktitle={2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring)}, 
+      title={Night Time Vehicle Detection and Tracking by Fusing Sensor Cues from Autonomous Vehicles}, 
       year={2020},
-      organization={IEEE}
-    }
+      volume={},
+      number={},
+      pages={1-7},
+      doi={10.1109/VTC2020-Spring48590.2020.9128989}}
 
     The Transactions paper will be added here after appearing online. 
