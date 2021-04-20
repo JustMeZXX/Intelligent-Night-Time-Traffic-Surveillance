@@ -16,8 +16,6 @@ Also, the annotations of vehicle headlights and taillights at each 1-minute vide
 
 The traffic monitoring ROI of both front and rear views are provided in "ROI.mat", and their corresponding traffic landmarks are provided in "landmarks_front.avi" and "landmarks_rear.avi", respectively.
 
-
-
 ### Code
 
 The code will be released here. 
