@@ -10,7 +10,7 @@ The dataset can be downloaded from: [Dataset].
 
 The dataset consists of synchronized front and rear-view night time traffic surveillance videos which are recorded by two iPhone 8 with 1920×1088 resolutions at 30 FPS. The captured videos are in both sparse and dense traffic situations, within which two lighting conditions, e.g., low and dark, are separately provided by adjusting the iPhone lens exposure time. 
 
-The vehicles at each 1-minute video are all carefully annotated, where a vehicle at one frame is labeled as a 4x3 matrix with its identify (first column) and its four vertices (second and third columns) in an anti-clockwise direction. These labels are given in "dense_dark_ground_truths.mat", "dense_low_ground_truths.mat", "sparse_dark_ground_truths.mat" and "sparse_low_ground_truths.mat". 
+The vehicles at each 1-minute video are all carefully annotated, where a vehicle contour (in polygon format) at one frame is labeled as a 4x3 matrix with its identify (first column) and its four vertices (second and third columns) in an anti-clockwise direction. These labels are given in "dense_dark_ground_truths.mat", "dense_low_ground_truths.mat", "sparse_dark_ground_truths.mat" and "sparse_low_ground_truths.mat". 
 
 The traffic monitoring ROI of both front and rear views are given in "ROI.mat". 
 
