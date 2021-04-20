@@ -14,7 +14,7 @@ The vehicles at each 1-minute video (1800 frames) are all carefully annotated, w
 
 Also, the annotations of vehicle headlights and taillights at each 1-minute video are provided, where a vehicle headlight or taillight (in bbox) at each frame is labeled as a 1x4 vector [left, top, width, height]. These bbox annotations are provided as .mat files in folder "headlight_and_taillight_bbox". 
 
-The traffic monitoring ROI of both front and rear views are provided in "ROI.mat", and their corresponding traffic landmarks are provided in "landmarks_front.avi" and "landmarks_rear.avi", respectively.
+The traffic monitoring ROI of both front and rear views are provided in "ROI.mat", where the x-y coordinates of each ROI are given in the first and second columns. In addition, the front and rear traffic landmarks is provided in "landmarks_front.avi" and "landmarks_rear.avi", respectively.
 
 ### Code
 
