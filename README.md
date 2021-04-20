@@ -21,7 +21,7 @@ The traffic landmarks of these monitoring ROIs are provided in "landmarks_front.
 The code will be released here. 
 
 ### Bibtex
-If you find our work useful in your research, please consider citing:
+If you find our work useful for your research, please consider citing:
 
     @inproceedings{zhang2020night,
       title={Night Time Vehicle Detection and Tracking by Fusing Sensor Cues from Autonomous Vehicles},
@@ -32,4 +32,4 @@ If you find our work useful in your research, please consider citing:
       organization={IEEE}
     }
 
-    The Transactions paper will be added here after online. 
+    The Transactions paper will be added here after appearing online. 
