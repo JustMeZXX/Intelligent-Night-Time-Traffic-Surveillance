@@ -12,9 +12,7 @@ The dataset consists of synchronized front and rear-view night time traffic surv
 
 The vehicles at each 1-minute video (1800 frames) are all carefully annotated, where a vehicle contour (in polygon format) at each frame is labeled as a 4x3 matrix. The matrix rows reprenset vertices of a vehicle contour in an anti-clockwise direction. The vehicle identies are given in the first column and the x-y coordinates of vertices are given in the second and third columns. These polygon annotations are provided in "dense_dark_ground_truths.mat", "dense_low_ground_truths.mat", "sparse_dark_ground_truths.mat" and "sparse_low_ground_truths.mat". 
 
-The traffic monitoring ROI of both front and rear views are given in "ROI.mat". 
-
-The traffic landmarks of these monitoring ROIs are provided in "landmarks_front.avi" and "landmarks_rear.avi".
+The traffic monitoring ROI of both front and rear views are provided in "ROI.mat", and their corresponding traffic landmarks are provided in "landmarks_front.avi" and "landmarks_rear.avi", respectively.
 
 ### Code
 
