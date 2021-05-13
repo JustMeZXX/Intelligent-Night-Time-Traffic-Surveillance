@@ -33,4 +33,12 @@ If you find our work useful for your research, please consider citing:
       pages={1-7},
       doi={10.1109/VTC2020-Spring48590.2020.9128989}}
 
-    The Transactions paper will be added here after appearing online. 
+    @ARTICLE{9430768,
+      author={Zhang, Xinxiang and Story, Brett and Rajan, Dinesh},
+      journal={IEEE Transactions on Intelligent Transportation Systems}, 
+      title={Night Time Vehicle Detection and Tracking by Fusing Vehicle Parts From Multiple Cameras}, 
+      year={2021},
+      volume={},
+      number={},
+      pages={1-21},
+      doi={10.1109/TITS.2021.3076406}}
